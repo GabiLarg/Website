@@ -1,11 +1,6 @@
 body {
   padding-top: 20px;
 }
-@font-face {
-    font-family: "Bilbo";
-    src: url(fonts/bilbobold.ttf);
-    
-}
 
 @font-face{
   font-family: "Lora";
